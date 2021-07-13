@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1151.38" height="666.177" viewBox="0 0 1151.38 666.177">
+  <defs>
+    <filter id="bg" x="392" y="0" width="335" height="170" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="mask" width="318" height="153" rx="10" fill="#fff"/>
+    </clipPath>
+    <filter id="bg-2" x="805" y="204" width="335" height="170" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-3" x="425" y="411" width="335" height="170" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bg-4" x="0" y="225" width="335" height="170" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="agile-process" transform="translate(9 1)">
+    <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(392)">
+      <g transform="matrix(1, 0, 0, 1, -401, -1)" filter="url(#bg)">
+        <rect id="bg-5" data-name="bg" width="317" height="152" rx="10" transform="translate(401 1)" fill="#fff"/>
+      </g>
+      <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+        <g id="light-bulb" transform="translate(-96.878 106.49) rotate(-45)">
+          <g id="Icon_ionic-ios-bulb" data-name="Icon ionic-ios-bulb" transform="translate(232.203 225.625)">
+            <path id="Path_6" data-name="Path 6" d="M57,26.893c0-13-11.7-23.518-24.7-23.518s-24.7,10.532-24.7,23.518c0,5.174,2.2,9.364,5.041,13.37h-.05c1.819,2.5,3.572,2.954,5.258,5.842,2.454,4.206,3.021,6.793,3.121,9.3a2.678,2.678,0,0,0,2.671,2.554H25.12a.67.67,0,0,0,.668-.668V41.515a5.4,5.4,0,0,0-.568-2.387l-3.505-7.01a1.753,1.753,0,0,1,1.569-2.537h0a1.738,1.738,0,0,1,1.569.985l4.223,8.579a5.242,5.242,0,0,1,.551,2.354v15.79a.67.67,0,0,0,.668.668H34.3a.67.67,0,0,0,.668-.668V41.5a5.242,5.242,0,0,1,.551-2.354l4.24-8.613a1.689,1.689,0,0,1,1.5-.935h0a1.68,1.68,0,0,1,1.5,2.437l-3.555,7.111a5.453,5.453,0,0,0-.568,2.387V57.289a.67.67,0,0,0,.668.668h1.669a2.67,2.67,0,0,0,2.671-2.5,20.053,20.053,0,0,1,3.071-9.347c1.686-2.888,3.438-3.338,5.258-5.842H51.96C54.8,36.257,57,32.068,57,26.893Z" fill="#ebebeb"/>
+            <path id="Path_7" data-name="Path 7" d="M18.087,35.33H24.1a2.344,2.344,0,0,0,2.337-2.337h0A2.344,2.344,0,0,0,24.1,30.656H18.087a2.344,2.344,0,0,0-2.337,2.337h0A2.344,2.344,0,0,0,18.087,35.33Z" transform="translate(11.206 37.482)" fill="#ebebeb"/>
+            <path id="Path_8" data-name="Path 8" d="M16.681,32.236H29.366A2.344,2.344,0,0,0,31.7,29.9h0a2.344,2.344,0,0,0-2.337-2.337H16.681A2.344,2.344,0,0,0,14.344,29.9h0A2.344,2.344,0,0,0,16.681,32.236Z" transform="translate(9.274 33.232)" fill="#ebebeb"/>
+          </g>
+          <rect id="Rectangle_16" data-name="Rectangle 16" width="7" height="21" rx="3.5" transform="translate(223.804 219.229) rotate(-45)" fill="#ebebeb"/>
+          <rect id="Rectangle_18" data-name="Rectangle 18" width="7" height="21" rx="3.5" transform="translate(261 203.179)" fill="#ebebeb"/>
+          <rect id="Rectangle_19" data-name="Rectangle 19" width="7" height="21" rx="3.5" transform="translate(221.324 281.947) rotate(-127)" fill="#ebebeb"/>
+          <rect id="Rectangle_22" data-name="Rectangle 22" width="7" height="21" rx="3.5" transform="matrix(0.602, -0.799, 0.799, 0.602, 290.905, 269.309)" fill="#ebebeb"/>
+          <rect id="Rectangle_23" data-name="Rectangle 23" width="7" height="21" rx="3.5" transform="translate(213.304 251.12) rotate(-90)" fill="#ebebeb"/>
+          <rect id="Rectangle_24" data-name="Rectangle 24" width="7" height="21" rx="3.5" transform="translate(294.696 251.12) rotate(-90)" fill="#ebebeb"/>
+          <rect id="Rectangle_25" data-name="Rectangle 25" width="7" height="21" rx="3.5" transform="translate(289.746 234.078) rotate(-135)" fill="#ebebeb"/>
+        </g>
+      </g>
+      <text id="subtitle" transform="translate(34 93)" fill="#3a3a3a" font-size="20" font-family="sans-serif" font-weight="700"><tspan x="0" y="0">Wat moet er gebouwd</tspan><tspan x="0" y="35">worden?</tspan></text>
+      <text id="title" transform="translate(34 56)" fill="#1d6879" font-size="32" font-family="sans-serif" font-weight="800"><tspan x="0" y="0">1. Analyse</tspan></text>
+    </g>
+    <g id="Component_3_2" data-name="Component 3 – 2" transform="translate(805 204)">
+      <g transform="matrix(1, 0, 0, 1, -814, -205)" filter="url(#bg-2)">
+        <rect id="bg-6" data-name="bg" width="317" height="152" rx="10" transform="translate(814 205)" fill="#fff"/>
+      </g>
+      <g id="Group_16" data-name="Group 16">
+        <g id="light-bulb-2" data-name="light-bulb" transform="translate(-96.878 106.49) rotate(-45)">
+          <g id="Icon_ionic-ios-bulb-2" data-name="Icon ionic-ios-bulb" transform="translate(232.203 225.625)">
+            <path id="Path_6-2" data-name="Path 6" d="M57,26.893c0-13-11.7-23.518-24.7-23.518s-24.7,10.532-24.7,23.518c0,5.174,2.2,9.364,5.041,13.37h-.05c1.819,2.5,3.572,2.954,5.258,5.842,2.454,4.206,3.021,6.793,3.121,9.3a2.678,2.678,0,0,0,2.671,2.554H25.12a.67.67,0,0,0,.668-.668V41.515a5.4,5.4,0,0,0-.568-2.387l-3.505-7.01a1.753,1.753,0,0,1,1.569-2.537h0a1.738,1.738,0,0,1,1.569.985l4.223,8.579a5.242,5.242,0,0,1,.551,2.354v15.79a.67.67,0,0,0,.668.668H34.3a.67.67,0,0,0,.668-.668V41.5a5.242,5.242,0,0,1,.551-2.354l4.24-8.613a1.689,1.689,0,0,1,1.5-.935h0a1.68,1.68,0,0,1,1.5,2.437l-3.555,7.111a5.453,5.453,0,0,0-.568,2.387V57.289a.67.67,0,0,0,.668.668h1.669a2.67,2.67,0,0,0,2.671-2.5,20.053,20.053,0,0,1,3.071-9.347c1.686-2.888,3.438-3.338,5.258-5.842H51.96C54.8,36.257,57,32.068,57,26.893Z" fill="#ebebeb"/>
+            <path id="Path_7-2" data-name="Path 7" d="M18.087,35.33H24.1a2.344,2.344,0,0,0,2.337-2.337h0A2.344,2.344,0,0,0,24.1,30.656H18.087a2.344,2.344,0,0,0-2.337,2.337h0A2.344,2.344,0,0,0,18.087,35.33Z" transform="translate(11.206 37.482)" fill="#ebebeb"/>
+            <path id="Path_8-2" data-name="Path 8" d="M16.681,32.236H29.366A2.344,2.344,0,0,0,31.7,29.9h0a2.344,2.344,0,0,0-2.337-2.337H16.681A2.344,2.344,0,0,0,14.344,29.9h0A2.344,2.344,0,0,0,16.681,32.236Z" transform="translate(9.274 33.232)" fill="#ebebeb"/>
+          </g>
+          <rect id="Rectangle_16-2" data-name="Rectangle 16" width="7" height="21" rx="3.5" transform="translate(223.804 219.229) rotate(-45)" fill="#ebebeb"/>
+          <rect id="Rectangle_18-2" data-name="Rectangle 18" width="7" height="21" rx="3.5" transform="translate(261 203.179)" fill="#ebebeb"/>
+          <rect id="Rectangle_19-2" data-name="Rectangle 19" width="7" height="21" rx="3.5" transform="translate(221.324 281.947) rotate(-127)" fill="#ebebeb"/>
+          <rect id="Rectangle_22-2" data-name="Rectangle 22" width="7" height="21" rx="3.5" transform="matrix(0.602, -0.799, 0.799, 0.602, 290.905, 269.309)" fill="#ebebeb"/>
+          <rect id="Rectangle_23-2" data-name="Rectangle 23" width="7" height="21" rx="3.5" transform="translate(213.304 251.12) rotate(-90)" fill="#ebebeb"/>
+          <rect id="Rectangle_24-2" data-name="Rectangle 24" width="7" height="21" rx="3.5" transform="translate(294.696 251.12) rotate(-90)" fill="#ebebeb"/>
+          <rect id="Rectangle_25-2" data-name="Rectangle 25" width="7" height="21" rx="3.5" transform="translate(289.746 234.078) rotate(-135)" fill="#ebebeb"/>
+        </g>
+      </g>
+      <text id="subtitle-2" data-name="subtitle" transform="translate(34 93)" fill="#3a3a3a" font-size="20" font-family="MuktaMalar-Bold, Mukta Malar" font-weight="700"><tspan x="0" y="0">Hoe gaat dat eruit </tspan><tspan x="0" y="35">zien?</tspan></text>
+      <text id="title-2" data-name="title" transform="translate(34 56)" fill="#1d6879" font-size="32" font-family="MuktaMalar-ExtraBold, Mukta Malar" font-weight="800"><tspan x="0" y="0">2. Design</tspan></text>
+    </g>
+    <g id="Component_3_3" data-name="Component 3 – 3" transform="translate(425 411)">
+      <g transform="matrix(1, 0, 0, 1, -434, -412)" filter="url(#bg-3)">
+        <rect id="bg-7" data-name="bg" width="317" height="152" rx="10" transform="translate(434 412)" fill="#fff"/>
+      </g>
+      <g id="Mask_Group_1-2" data-name="Mask Group 1" clip-path="url(#clip-path)">
+        <g id="light-bulb-3" data-name="light-bulb" transform="translate(-96.878 106.49) rotate(-45)">
+          <g id="Icon_ionic-ios-bulb-3" data-name="Icon ionic-ios-bulb" transform="translate(232.203 225.625)">
+            <path id="Path_6-3" data-name="Path 6" d="M57,26.893c0-13-11.7-23.518-24.7-23.518s-24.7,10.532-24.7,23.518c0,5.174,2.2,9.364,5.041,13.37h-.05c1.819,2.5,3.572,2.954,5.258,5.842,2.454,4.206,3.021,6.793,3.121,9.3a2.678,2.678,0,0,0,2.671,2.554H25.12a.67.67,0,0,0,.668-.668V41.515a5.4,5.4,0,0,0-.568-2.387l-3.505-7.01a1.753,1.753,0,0,1,1.569-2.537h0a1.738,1.738,0,0,1,1.569.985l4.223,8.579a5.242,5.242,0,0,1,.551,2.354v15.79a.67.67,0,0,0,.668.668H34.3a.67.67,0,0,0,.668-.668V41.5a5.242,5.242,0,0,1,.551-2.354l4.24-8.613a1.689,1.689,0,0,1,1.5-.935h0a1.68,1.68,0,0,1,1.5,2.437l-3.555,7.111a5.453,5.453,0,0,0-.568,2.387V57.289a.67.67,0,0,0,.668.668h1.669a2.67,2.67,0,0,0,2.671-2.5,20.053,20.053,0,0,1,3.071-9.347c1.686-2.888,3.438-3.338,5.258-5.842H51.96C54.8,36.257,57,32.068,57,26.893Z" fill="#ebebeb"/>
+            <path id="Path_7-3" data-name="Path 7" d="M18.087,35.33H24.1a2.344,2.344,0,0,0,2.337-2.337h0A2.344,2.344,0,0,0,24.1,30.656H18.087a2.344,2.344,0,0,0-2.337,2.337h0A2.344,2.344,0,0,0,18.087,35.33Z" transform="translate(11.206 37.482)" fill="#ebebeb"/>
+            <path id="Path_8-3" data-name="Path 8" d="M16.681,32.236H29.366A2.344,2.344,0,0,0,31.7,29.9h0a2.344,2.344,0,0,0-2.337-2.337H16.681A2.344,2.344,0,0,0,14.344,29.9h0A2.344,2.344,0,0,0,16.681,32.236Z" transform="translate(9.274 33.232)" fill="#ebebeb"/>
+          </g>
+          <rect id="Rectangle_16-3" data-name="Rectangle 16" width="7" height="21" rx="3.5" transform="translate(223.804 219.229) rotate(-45)" fill="#ebebeb"/>
+          <rect id="Rectangle_18-3" data-name="Rectangle 18" width="7" height="21" rx="3.5" transform="translate(261 203.179)" fill="#ebebeb"/>
+          <rect id="Rectangle_19-3" data-name="Rectangle 19" width="7" height="21" rx="3.5" transform="translate(221.324 281.947) rotate(-127)" fill="#ebebeb"/>
+          <rect id="Rectangle_22-3" data-name="Rectangle 22" width="7" height="21" rx="3.5" transform="matrix(0.602, -0.799, 0.799, 0.602, 290.905, 269.309)" fill="#ebebeb"/>
+          <rect id="Rectangle_23-3" data-name="Rectangle 23" width="7" height="21" rx="3.5" transform="translate(213.304 251.12) rotate(-90)" fill="#ebebeb"/>
+          <rect id="Rectangle_24-3" data-name="Rectangle 24" width="7" height="21" rx="3.5" transform="translate(294.696 251.12) rotate(-90)" fill="#ebebeb"/>
+          <rect id="Rectangle_25-3" data-name="Rectangle 25" width="7" height="21" rx="3.5" transform="translate(289.746 234.078) rotate(-135)" fill="#ebebeb"/>
+        </g>
+      </g>
+      <text id="subtitle-3" data-name="subtitle" transform="translate(34 93)" fill="#3a3a3a" font-size="20" font-family="MuktaMalar-Bold, Mukta Malar" font-weight="700"><tspan x="0" y="0">Het maken van de </tspan><tspan x="0" y="35">software</tspan></text>
+      <text id="title-3" data-name="title" transform="translate(34 56)" fill="#1d6879" font-size="32" font-family="MuktaMalar-ExtraBold, Mukta Malar" font-weight="800"><tspan x="0" y="0">3. Bouwen</tspan></text>
+    </g>
+    <g id="Component_3_4" data-name="Component 3 – 4" transform="translate(0 225)">
+      <g transform="matrix(1, 0, 0, 1, -9, -226)" filter="url(#bg-4)">
+        <rect id="bg-8" data-name="bg" width="317" height="152" rx="10" transform="translate(9 226)" fill="#fff"/>
+      </g>
+      <g id="Mask_Group_1-3" data-name="Mask Group 1" clip-path="url(#clip-path)">
+        <g id="light-bulb-4" data-name="light-bulb" transform="translate(-96.878 106.49) rotate(-45)">
+          <g id="Icon_ionic-ios-bulb-4" data-name="Icon ionic-ios-bulb" transform="translate(232.203 225.625)">
+            <path id="Path_6-4" data-name="Path 6" d="M57,26.893c0-13-11.7-23.518-24.7-23.518s-24.7,10.532-24.7,23.518c0,5.174,2.2,9.364,5.041,13.37h-.05c1.819,2.5,3.572,2.954,5.258,5.842,2.454,4.206,3.021,6.793,3.121,9.3a2.678,2.678,0,0,0,2.671,2.554H25.12a.67.67,0,0,0,.668-.668V41.515a5.4,5.4,0,0,0-.568-2.387l-3.505-7.01a1.753,1.753,0,0,1,1.569-2.537h0a1.738,1.738,0,0,1,1.569.985l4.223,8.579a5.242,5.242,0,0,1,.551,2.354v15.79a.67.67,0,0,0,.668.668H34.3a.67.67,0,0,0,.668-.668V41.5a5.242,5.242,0,0,1,.551-2.354l4.24-8.613a1.689,1.689,0,0,1,1.5-.935h0a1.68,1.68,0,0,1,1.5,2.437l-3.555,7.111a5.453,5.453,0,0,0-.568,2.387V57.289a.67.67,0,0,0,.668.668h1.669a2.67,2.67,0,0,0,2.671-2.5,20.053,20.053,0,0,1,3.071-9.347c1.686-2.888,3.438-3.338,5.258-5.842H51.96C54.8,36.257,57,32.068,57,26.893Z" fill="#ebebeb"/>
+            <path id="Path_7-4" data-name="Path 7" d="M18.087,35.33H24.1a2.344,2.344,0,0,0,2.337-2.337h0A2.344,2.344,0,0,0,24.1,30.656H18.087a2.344,2.344,0,0,0-2.337,2.337h0A2.344,2.344,0,0,0,18.087,35.33Z" transform="translate(11.206 37.482)" fill="#ebebeb"/>
+            <path id="Path_8-4" data-name="Path 8" d="M16.681,32.236H29.366A2.344,2.344,0,0,0,31.7,29.9h0a2.344,2.344,0,0,0-2.337-2.337H16.681A2.344,2.344,0,0,0,14.344,29.9h0A2.344,2.344,0,0,0,16.681,32.236Z" transform="translate(9.274 33.232)" fill="#ebebeb"/>
+          </g>
+          <rect id="Rectangle_16-4" data-name="Rectangle 16" width="7" height="21" rx="3.5" transform="translate(223.804 219.229) rotate(-45)" fill="#ebebeb"/>
+          <rect id="Rectangle_18-4" data-name="Rectangle 18" width="7" height="21" rx="3.5" transform="translate(261 203.179)" fill="#ebebeb"/>
+          <rect id="Rectangle_19-4" data-name="Rectangle 19" width="7" height="21" rx="3.5" transform="translate(221.324 281.947) rotate(-127)" fill="#ebebeb"/>
+          <rect id="Rectangle_22-4" data-name="Rectangle 22" width="7" height="21" rx="3.5" transform="matrix(0.602, -0.799, 0.799, 0.602, 290.905, 269.309)" fill="#ebebeb"/>
+          <rect id="Rectangle_23-4" data-name="Rectangle 23" width="7" height="21" rx="3.5" transform="translate(213.304 251.12) rotate(-90)" fill="#ebebeb"/>
+          <rect id="Rectangle_24-4" data-name="Rectangle 24" width="7" height="21" rx="3.5" transform="translate(294.696 251.12) rotate(-90)" fill="#ebebeb"/>
+          <rect id="Rectangle_25-4" data-name="Rectangle 25" width="7" height="21" rx="3.5" transform="translate(289.746 234.078) rotate(-135)" fill="#ebebeb"/>
+        </g>
+      </g>
+      <text id="subtitle-4" data-name="subtitle" transform="translate(34 93)" fill="#3a3a3a" font-size="20" font-family="MuktaMalar-Bold, Mukta Malar" font-weight="700"><tspan x="0" y="0">Wat vind de gebruiker </tspan><tspan x="0" y="35">ervan?</tspan></text>
+      <text id="title-4" data-name="title" transform="translate(34 56)" fill="#1d6879" font-size="32" font-family="MuktaMalar-ExtraBold, Mukta Malar" font-weight="800"><tspan x="0" y="0">4. Valideren</tspan></text>
+    </g>
+    <g id="arrow-4" transform="translate(-318 -1657)">
+      <path id="Path_25" data-name="Path 25" d="M6450.064,1929.751s-49.4,78.925-114.848,26.5-42.305-122.41-54.171-154.822" transform="matrix(-0.259, 0.966, -0.966, -0.259, 3985.24, -3859.704)" fill="none" stroke="#1d6879" stroke-width="10" stroke-dasharray="20"/>
+      <g id="arrow" transform="translate(625.653 1768.164) rotate(-90)">
+        <path id="Icon_awesome-arrow-up" data-name="Icon awesome-arrow-up" d="M3.99,33.881,1.263,31.154a2.936,2.936,0,0,1,0-4.164L25.129,3.112a2.936,2.936,0,0,1,4.164,0L53.158,26.978a2.936,2.936,0,0,1,0,4.164l-2.727,2.727a2.951,2.951,0,0,1-4.213-.049L32.13,19.031v35.3a2.941,2.941,0,0,1-2.948,2.948H25.252A2.941,2.941,0,0,1,22.3,54.332v-35.3L8.2,33.832a2.93,2.93,0,0,1-4.213.049Z" transform="translate(54.024 57.28) rotate(180)" fill="#1d6879"/>
+      </g>
+    </g>
+    <g id="arrow-3" transform="translate(-318 -1657)">
+      <path id="Path_24" data-name="Path 24" d="M6722.178,1931.313c-22.335,51.872-137.112-3.471-196.24,22.155s-67.467,47.55-137.664,51.019-74.226,12.347-110.926-23.982c-35.96-35.595-21.753-77.734,4.837-110.791,12.293-15.284,10.561-38.732,11.787-43.684" transform="translate(-5828.066 309.166)" fill="none" stroke="#1d6879" stroke-width="10" stroke-dasharray="20"/>
+      <g id="arrow-2" data-name="arrow" transform="translate(491.627 2129) rotate(180)">
+        <path id="Icon_awesome-arrow-up-2" data-name="Icon awesome-arrow-up" d="M3.99,33.881,1.263,31.154a2.936,2.936,0,0,1,0-4.164L25.129,3.112a2.936,2.936,0,0,1,4.164,0L53.158,26.978a2.936,2.936,0,0,1,0,4.164l-2.727,2.727a2.951,2.951,0,0,1-4.213-.049L32.13,19.031v35.3a2.941,2.941,0,0,1-2.948,2.948H25.252A2.941,2.941,0,0,1,22.3,54.332v-35.3L8.2,33.832a2.93,2.93,0,0,1-4.213.049Z" transform="translate(54.024 57.28) rotate(180)" fill="#1d6879"/>
+      </g>
+    </g>
+    <g id="arrow-2-2" data-name="arrow-2" transform="translate(-146.274 -1676.578)">
+      <path id="Path_26" data-name="Path 26" d="M6413.064,1753.144s-26.165,17.788-47.866,15-53.937-12.46-77.549-25.491-52.082-35.454-72.3-24.228c-47.584,26.415-8.038,59.257,5.526,80.927" transform="translate(-5495.275 208.536)" fill="none" stroke="#1d6879" stroke-width="10" stroke-dasharray="20"/>
+      <g id="arrow-3-2" data-name="arrow" transform="translate(698.013 2018.684)">
+        <path id="Icon_awesome-arrow-up-3" data-name="Icon awesome-arrow-up" d="M3.99,33.881,1.263,31.154a2.936,2.936,0,0,1,0-4.164L25.129,3.112a2.936,2.936,0,0,1,4.164,0L53.158,26.978a2.936,2.936,0,0,1,0,4.164l-2.727,2.727a2.951,2.951,0,0,1-4.213-.049L32.13,19.031v35.3a2.941,2.941,0,0,1-2.948,2.948H25.252A2.941,2.941,0,0,1,22.3,54.332v-35.3L8.2,33.832a2.93,2.93,0,0,1-4.213.049Z" transform="translate(54.024 57.28) rotate(180)" fill="#1d6879"/>
+      </g>
+    </g>
+    <g id="arrow-1" transform="translate(-318 -1657)">
+      <path id="Path_23" data-name="Path 23" d="M6217,1739.011s45.969,6.566,106.241,0c20.956-2.283,50.052-20.767,69.788-17.633,9.675,1.536,26.938-2.266,31.844,6.973,5.246,9.879,3.065,36.846,3.065,36.846" transform="translate(-5155.983 13.172)" fill="none" stroke="#1d6879" stroke-width="10" stroke-dasharray="20"/>
+      <g id="arrow-4-2" data-name="arrow" transform="translate(1245.029 1789.483)">
+        <path id="Icon_awesome-arrow-up-4" data-name="Icon awesome-arrow-up" d="M3.593,31.635.866,28.908a2.936,2.936,0,0,1,0-4.164L24.732.866a2.936,2.936,0,0,1,4.164,0L52.761,24.732a2.936,2.936,0,0,1,0,4.164l-2.727,2.727a2.951,2.951,0,0,1-4.213-.049L31.733,16.785v35.3a2.941,2.941,0,0,1-2.948,2.948H24.854a2.941,2.941,0,0,1-2.948-2.948v-35.3l-14.1,14.8a2.93,2.93,0,0,1-4.213.049Z" transform="translate(53.627 55.034) rotate(180)" fill="#1d6879"/>
+      </g>
+    </g>
+  </g>
+</svg>

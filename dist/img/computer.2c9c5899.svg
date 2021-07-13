@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="webapp" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="238.518" height="199.093" viewBox="0 0 238.518 199.093">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d8e7f4"/>
+      <stop offset="1" stop-color="#cfd9e2"/>
+    </linearGradient>
+  </defs>
+  <g id="Homepage-services">
+    <g id="Group-19">
+      <g id="online-shopping">
+        <g id="Group" transform="translate(65.05 94.619)">
+          <path id="Shape" d="M22.308,38.041H0V15.632H22.308Z" transform="translate(0 15.182)" fill="#2e5979"/>
+          <path id="Shape-2" data-name="Shape" d="M37.869,43.562H15.561V9.947H37.869Z" transform="translate(15.113 9.661)" fill="#2e5979"/>
+          <path id="Shape-3" data-name="Shape" d="M53.43,42.182H31.122V11.368H53.43Z" transform="translate(30.226 11.041)" fill="#2e5979"/>
+          <path id="Shape-4" data-name="Shape" d="M68.991,53.223H46.683V0H68.991Z" transform="translate(45.339)" fill="#2e5979"/>
+        </g>
+        <g id="Group-2" data-name="Group">
+          <path id="Shape-5" data-name="Shape" d="M50.8,80.4H61.89v.7a11.469,11.469,0,1,0,14.68,14.61h32.2a11.5,11.5,0,1,0,14.68-14.61v-.7h11.176l4.616-45.945h-4.447a38.488,38.488,0,0,0-76.553,0h-.2v7.657h72.69l-3.078,30.63H57.593L49.9,11.486H23.419v7.657H43.1ZM96.513,7.657a30.755,30.755,0,0,1,30.511,26.8H88.819V30.63a7.694,7.694,0,0,1,15.388,0H111.9a15.308,15.308,0,0,0-11.541-14.771V11.486H92.666v4.372A15.308,15.308,0,0,0,81.125,30.63v3.829H66A30.755,30.755,0,0,1,96.513,7.657Zm12.249,80.4h-32.2a11.5,11.5,0,0,0-6.986-6.953v-.7h46.165v.7A11.506,11.506,0,0,0,108.762,88.06ZM65.737,95.718a3.829,3.829,0,1,1,3.847-3.829A3.839,3.839,0,0,1,65.737,95.718Zm53.859,0a3.829,3.829,0,1,1,3.847-3.829A3.839,3.839,0,0,1,119.6,95.718Z" transform="translate(22.745)" fill="url(#linear-gradient)"/>
+          <path id="Rectangle-path" d="M42.935,27.192h61.553V34.85H42.935Z" transform="translate(41.7 26.41)" fill="url(#linear-gradient)"/>
+          <path id="Shape-6" data-name="Shape" d="M211.588,142.11V42.563a11.528,11.528,0,0,0-11.541-11.486H165.423v7.657h34.624a3.839,3.839,0,0,1,3.847,3.829V142.11H34.624V42.563a3.839,3.839,0,0,1,3.847-3.829H65.4V31.077H38.471A11.528,11.528,0,0,0,26.929,42.563V142.11H0v15.315a11.528,11.528,0,0,0,11.541,11.486H226.976a11.528,11.528,0,0,0,11.541-11.486V142.11Zm19.235,15.315a3.839,3.839,0,0,1-3.847,3.829H11.541a3.839,3.839,0,0,1-3.847-3.829v-7.657H230.823Z" transform="translate(0 30.183)" fill="url(#linear-gradient)"/>
+          <path id="Shape-7" data-name="Shape" d="M167.656,119.249H29.162V46.5H44.55V38.846H21.468v88.06H175.35V38.846H144.574V46.5h23.082Z" transform="translate(20.85 37.728)" fill="#cfd9e2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
